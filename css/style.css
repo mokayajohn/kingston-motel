@@ -5,6 +5,9 @@ body{
     padding: 0;
     color: #333;
 }
+.navbar{
+    width:100%
+}
 nav{
     background-color: #4E342E;
     display: flex;
